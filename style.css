@@ -1,0 +1,77 @@
+body {
+    background-color:  hsl(0, 0%, 98%);
+    font-family: 'Poppins', sans-serif;
+}
+.reli {
+    font-size: 20px;
+}
+.reliSub {
+    font-size: 20px;
+    color:  hsl(234, 12%, 34%);
+}
+.our {
+    font-size: 13px;
+    color:  hsl(229, 6%, 66%);
+}
+.supervisor {
+    background-color: white;
+    border-top: 4px solid hsl(180, 62%, 55%);
+     font-size: 11px;
+    color: hsl(229, 6%, 66%);
+}
+
+.supervisor h5 {
+    font-size: 16px;
+    color:  hsl(234, 12%, 34%);
+}
+.team {
+    background-color: white;
+    border-top: 4px solid hsl(0, 78%, 62%);
+    font-size: 11px;
+    color: hsl(229, 6%, 66%);
+
+}
+
+.team h5 {
+    font-size: 16px;
+    color:  hsl(234, 12%, 34%);
+}
+.karma {
+    background-color: white;
+    border-top: 4px solid hsl(34, 97%, 64%);
+    font-size: 11px;
+    color: hsl(229, 6%, 66%);
+}
+    
+.karma h5{
+    font-size: 16px;
+    color:  hsl(234, 12%, 34%);
+}
+.calc {
+    background-color: white;
+    border-top: 4px solid hsl(212, 86%, 64%);
+    font-size: 11px;
+    color: hsl(229, 6%, 66%);
+}
+    
+.calc h5{
+    font-size: 16px;
+    color:  hsl(234, 12%, 34%);
+}
+.sup {
+    margin-top: 100px;
+}
+.calcu {
+    margin-top: 100px;
+}
+@media (max-width: 768px){
+    .sup {
+        margin-top: 15px;
+    }
+    .calcu {
+        margin-top: 15px;
+    }
+    .team {
+        margin-top: 15px;
+    }
+}
