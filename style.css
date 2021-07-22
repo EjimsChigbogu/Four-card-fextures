@@ -16,7 +16,7 @@ body {
 .supervisor {
     background-color: white;
     border-top: 4px solid hsl(180, 62%, 55%);
-     font-size: 11px;
+    font-size: 11px;
     color: hsl(229, 6%, 66%);
 }
 
